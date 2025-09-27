@@ -14,5 +14,9 @@ Bedwars, Bedwarz 3
 # WIP Games
 Ink Games, 99 Nights in the Forest
 
-# Discord:
-https://discord.gg/DEZsBmE93A
+# Contact:
+[Discord](https://discord.gg/DEZsBmE93A)
+
+## Project Lead
+[vxrm](https://github.com/vxrm) - Lead maintainer of the project/founder of the project - vxrmwasted on Discord
+<br/>
