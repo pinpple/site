@@ -10,12 +10,16 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/pinpple/pineapple/ref
 ```
 # Games, Support & Updates:
 **Supported Games**: Bedwars, Bedwarz 3
+
 **In-Development Games**: Ink Games, 99 Nights in the Forest
+
 All updates --> https://pinpple.github.io/site/updates
 
 # Contact & Pineapple:
 [Discord](https://discord.gg/DEZsBmE93A)
+
 [Pineapple Update Log](https://pinpple.github.io/site/updates)
+
 [Pineapple Orginization](https://pinpple.github)
 
 ## Project Lead
